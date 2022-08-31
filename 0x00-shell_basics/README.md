@@ -7,3 +7,4 @@
 -The Seventh Script create a script that creates a directory
 -The Eight Script move file from one location to to another
 -The Nineth Script delete the file betty
+-Tenth Script bye bye my first directory
