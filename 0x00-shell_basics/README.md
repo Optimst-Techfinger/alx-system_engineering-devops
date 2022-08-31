@@ -8,3 +8,8 @@
 -The Eight Script move file from one location to to another
 -The Nineth Script delete the file betty
 -Tenth Script bye bye my first directory
+-Eleventh Script back to the future
+-Twelve Script Lists
+-Thirteen Script file type
+-Fourteen Script We are symbols and inhabit symbols
+-Fifteenth copy html file
