@@ -2,5 +2,5 @@
 -The second script that displays the contents list of CD
 -The third Script that changes the WD to user's home directory
 -The first Script to display current directory in a long format
-
+-Th fifth Script to display CD contents include hidden files
 
