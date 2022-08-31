@@ -4,4 +4,4 @@
 -The first Script to display current directory in a long format
 -Th fifth Script to display CD contents include hidden files
 -The sixth Script to display CD contents-long format-group ID-hidden files
-
+-The Seventh Script create a script that creates a directory
