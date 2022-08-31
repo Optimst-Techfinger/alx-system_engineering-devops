@@ -6,3 +6,4 @@
 -The sixth Script to display CD contents-long format-group ID-hidden files
 -The Seventh Script create a script that creates a directory
 -The Eight Script move file from one location to to another
+-The Nineth Script delete the file betty
