@@ -13,3 +13,8 @@
 -Thirteen Script file type
 -Fourteen Script We are symbols and inhabit symbols
 -Fifteenth copy html file
+-Sixteenth Let's move
+-Seventeen Clean emacs
+-Tree
+-life is a series of commas, not periods
+-file type:school
